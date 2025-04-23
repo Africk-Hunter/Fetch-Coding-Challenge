@@ -1,6 +1,6 @@
 ## Code Setup
 
-1. Open command prompt and run `git clone https://github.com/fetch-rewards/sre-take-home-exercise-python.git' in desired folder
+1. Open command prompt and run `git clone https://github.com/Africk-Hunter/Fetch-Coding-Challenge.git' in desired folder
 2. Navigate to folder where files were cloned
 3. Run the python script in the command line using 'python main.py .\sample.yaml'
 
